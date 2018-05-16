@@ -1,4 +1,4 @@
-# idk
+# Startup Name Generator Flutter
 
 A new Flutter project.
 
